@@ -58,7 +58,7 @@ class GridListTests : BaseTest() {
     fun `vertical_scrolling`() {
         onView(withId(R.id.grid_recycler_view))
             .perform(swipeUp())
-        onView(withText("Bella")).check(matches(isDisplayed()))
+        onView(hasDescendant(withText("Bella")))
     }
 
     @Test

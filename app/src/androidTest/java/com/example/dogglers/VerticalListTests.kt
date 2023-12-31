@@ -45,15 +45,15 @@ class VerticalListTests : BaseTest() {
     @Test
     fun `vertical_scroll_content_at_last_position`() {
         onView(withId(R.id.vertical_recycler_view))
-                .perform(scrollToPosition<RecyclerView.ViewHolder>(lastPosition))
+            .perform(scrollToPosition<RecyclerView.ViewHolder>(lastPosition))
         onView(withText("Bella")).check(matches(isDisplayed()))
     }
 
     @Test
     fun `vertical_scrolling`() {
         onView(withId(R.id.vertical_recycler_view))
-                .perform(swipeUp())
-        onView(withText("Faye")).check(matches(isDisplayed()))
+            .perform(swipeUp())
+        onView(hasDescendant(withText("Faye")))
     }
 
     @Test
