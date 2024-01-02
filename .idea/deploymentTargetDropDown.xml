@@ -6,20 +6,7 @@
         <State />
       </entry>
       <entry key="GridListTests">
-        <State>
-          <runningDeviceTargetSelectedWithDropDown>
-            <Target>
-              <type value="RUNNING_DEVICE_TARGET" />
-              <deviceKey>
-                <Key>
-                  <type value="VIRTUAL_DEVICE_PATH" />
-                  <value value="C:\Users\diogo\.android\avd\Pixel_3a_XL_API_34.avd" />
-                </Key>
-              </deviceKey>
-            </Target>
-          </runningDeviceTargetSelectedWithDropDown>
-          <timeTargetWasSelectedWithDropDown value="2023-12-31T02:03:43.744554700Z" />
-        </State>
+        <State />
       </entry>
       <entry key="HorizontalListTests">
         <State />
@@ -29,17 +16,6 @@
       </entry>
       <entry key="app">
         <State>
-          <runningDeviceTargetSelectedWithDropDown>
-            <Target>
-              <type value="RUNNING_DEVICE_TARGET" />
-              <deviceKey>
-                <Key>
-                  <type value="VIRTUAL_DEVICE_PATH" />
-                  <value value="C:\Users\diogo\.android\avd\Pixel_3a_XL_API_34.avd" />
-                </Key>
-              </deviceKey>
-            </Target>
-          </runningDeviceTargetSelectedWithDropDown>
           <targetSelectedWithDropDown>
             <Target>
               <type value="QUICK_BOOT_TARGET" />
@@ -51,7 +27,7 @@
               </deviceKey>
             </Target>
           </targetSelectedWithDropDown>
-          <timeTargetWasSelectedWithDropDown value="2023-12-31T01:52:25.312596200Z" />
+          <timeTargetWasSelectedWithDropDown value="2023-12-31T12:49:12.936603800Z" />
         </State>
       </entry>
       <entry key="vertical_scrolling() (1)">
