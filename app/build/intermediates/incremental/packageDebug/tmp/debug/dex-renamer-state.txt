@@ -1,4 +1,4 @@
-#Sat Dec 30 23:48:45 BRT 2023
+#Mon Sep 30 14:40:43 BRT 2024
 base.0=C\:\\Users\\diogo\\AndroidStudioProjects\\android-basics-kotlin-dogglers-app\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
 base.1=C\:\\Users\\diogo\\AndroidStudioProjects\\android-basics-kotlin-dogglers-app\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
 base.2=C\:\\Users\\diogo\\AndroidStudioProjects\\android-basics-kotlin-dogglers-app\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\10\\classes.dex

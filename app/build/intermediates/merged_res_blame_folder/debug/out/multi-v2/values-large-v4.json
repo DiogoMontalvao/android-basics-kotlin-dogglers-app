@@ -4,7 +4,7 @@
             "outputFile": "com.example.dogglers.app-mergeDebugResources-26:/values-large-v4/values-large-v4.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\diogo\\.gradle\\caches\\transforms-3\\8681a429f9c30c4bd9e717241935799a\\transformed\\appcompat-1.4.1\\res\\values-large-v4\\values-large-v4.xml",
+                    "source": "C:\\Users\\diogo\\.gradle\\caches\\transforms-3\\2d03f03b9513b51711cdaa7ad66ce339\\transformed\\appcompat-1.4.1\\res\\values-large-v4\\values-large-v4.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10",
                         "startColumns": "4,4,4,4,4,4,4,4,4",
@@ -14,7 +14,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\diogo\\.gradle\\caches\\transforms-3\\829b6e989b73747e02a4c49198a8e04d\\transformed\\material-1.6.0\\res\\values-large-v4\\values-large-v4.xml",
+                    "source": "C:\\Users\\diogo\\.gradle\\caches\\transforms-3\\7c655488b47942140f358a5eb1fc2d9f\\transformed\\material-1.6.0\\res\\values-large-v4\\values-large-v4.xml",
                     "from": {
                         "startLines": "2,3,4,10",
                         "startColumns": "4,4,4,4",

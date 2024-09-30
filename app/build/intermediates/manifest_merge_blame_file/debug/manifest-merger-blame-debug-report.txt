@@ -24,15 +24,15 @@
 24        android:targetSdkVersion="33" />
 25
 26    <uses-permission android:name="android.permission.REORDER_TASKS" />
-26-->[androidx.fragment:fragment-testing:1.4.1] C:\Users\diogo\.gradle\caches\transforms-3\742047550e47a32852bc094eb6a4a861\transformed\jetified-fragment-testing-1.4.1\AndroidManifest.xml:25:5-72
-26-->[androidx.fragment:fragment-testing:1.4.1] C:\Users\diogo\.gradle\caches\transforms-3\742047550e47a32852bc094eb6a4a861\transformed\jetified-fragment-testing-1.4.1\AndroidManifest.xml:25:22-69
+26-->[androidx.fragment:fragment-testing:1.4.1] C:\Users\diogo\.gradle\caches\transforms-3\6fc65dc9e62bf4c3acc576810021718c\transformed\jetified-fragment-testing-1.4.1\AndroidManifest.xml:25:5-72
+26-->[androidx.fragment:fragment-testing:1.4.1] C:\Users\diogo\.gradle\caches\transforms-3\6fc65dc9e62bf4c3acc576810021718c\transformed\jetified-fragment-testing-1.4.1\AndroidManifest.xml:25:22-69
 27
 28    <application
 28-->C:\Users\diogo\AndroidStudioProjects\android-basics-kotlin-dogglers-app\app\src\main\AndroidManifest.xml:19:5-49:19
 29        android:allowBackup="true"
 29-->C:\Users\diogo\AndroidStudioProjects\android-basics-kotlin-dogglers-app\app\src\main\AndroidManifest.xml:20:9-35
 30        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-30-->[androidx.core:core:1.7.0] C:\Users\diogo\.gradle\caches\transforms-3\ffb4dd4d4e4dec8431bf99149cc73f21\transformed\core-1.7.0\AndroidManifest.xml:24:18-86
+30-->[androidx.core:core:1.7.0] C:\Users\diogo\.gradle\caches\transforms-3\3753bef1b4e4f4a45134a35868386eb1\transformed\core-1.7.0\AndroidManifest.xml:24:18-86
 31        android:debuggable="true"
 32        android:extractNativeLibs="true"
 33        android:icon="@mipmap/ic_launcher"
@@ -94,64 +94,64 @@
 61            </intent-filter>
 62        </activity>
 63        <activity
-63-->[androidx.fragment:fragment-testing:1.4.1] C:\Users\diogo\.gradle\caches\transforms-3\742047550e47a32852bc094eb6a4a861\transformed\jetified-fragment-testing-1.4.1\AndroidManifest.xml:28:9-37:20
+63-->[androidx.fragment:fragment-testing:1.4.1] C:\Users\diogo\.gradle\caches\transforms-3\6fc65dc9e62bf4c3acc576810021718c\transformed\jetified-fragment-testing-1.4.1\AndroidManifest.xml:28:9-37:20
 64            android:name="androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity"
-64-->[androidx.fragment:fragment-testing:1.4.1] C:\Users\diogo\.gradle\caches\transforms-3\742047550e47a32852bc094eb6a4a861\transformed\jetified-fragment-testing-1.4.1\AndroidManifest.xml:29:13-96
+64-->[androidx.fragment:fragment-testing:1.4.1] C:\Users\diogo\.gradle\caches\transforms-3\6fc65dc9e62bf4c3acc576810021718c\transformed\jetified-fragment-testing-1.4.1\AndroidManifest.xml:29:13-96
 65            android:exported="true"
-65-->[androidx.fragment:fragment-testing:1.4.1] C:\Users\diogo\.gradle\caches\transforms-3\742047550e47a32852bc094eb6a4a861\transformed\jetified-fragment-testing-1.4.1\AndroidManifest.xml:30:13-36
+65-->[androidx.fragment:fragment-testing:1.4.1] C:\Users\diogo\.gradle\caches\transforms-3\6fc65dc9e62bf4c3acc576810021718c\transformed\jetified-fragment-testing-1.4.1\AndroidManifest.xml:30:13-36
 66            android:multiprocess="true"
-66-->[androidx.fragment:fragment-testing:1.4.1] C:\Users\diogo\.gradle\caches\transforms-3\742047550e47a32852bc094eb6a4a861\transformed\jetified-fragment-testing-1.4.1\AndroidManifest.xml:31:13-40
+66-->[androidx.fragment:fragment-testing:1.4.1] C:\Users\diogo\.gradle\caches\transforms-3\6fc65dc9e62bf4c3acc576810021718c\transformed\jetified-fragment-testing-1.4.1\AndroidManifest.xml:31:13-40
 67            android:taskAffinity=""
-67-->[androidx.fragment:fragment-testing:1.4.1] C:\Users\diogo\.gradle\caches\transforms-3\742047550e47a32852bc094eb6a4a861\transformed\jetified-fragment-testing-1.4.1\AndroidManifest.xml:32:13-36
+67-->[androidx.fragment:fragment-testing:1.4.1] C:\Users\diogo\.gradle\caches\transforms-3\6fc65dc9e62bf4c3acc576810021718c\transformed\jetified-fragment-testing-1.4.1\AndroidManifest.xml:32:13-36
 68            android:theme="@style/FragmentScenarioEmptyFragmentActivityTheme" >
-68-->[androidx.fragment:fragment-testing:1.4.1] C:\Users\diogo\.gradle\caches\transforms-3\742047550e47a32852bc094eb6a4a861\transformed\jetified-fragment-testing-1.4.1\AndroidManifest.xml:33:13-78
+68-->[androidx.fragment:fragment-testing:1.4.1] C:\Users\diogo\.gradle\caches\transforms-3\6fc65dc9e62bf4c3acc576810021718c\transformed\jetified-fragment-testing-1.4.1\AndroidManifest.xml:33:13-78
 69            <intent-filter>
-69-->[androidx.fragment:fragment-testing:1.4.1] C:\Users\diogo\.gradle\caches\transforms-3\742047550e47a32852bc094eb6a4a861\transformed\jetified-fragment-testing-1.4.1\AndroidManifest.xml:34:13-36:29
+69-->[androidx.fragment:fragment-testing:1.4.1] C:\Users\diogo\.gradle\caches\transforms-3\6fc65dc9e62bf4c3acc576810021718c\transformed\jetified-fragment-testing-1.4.1\AndroidManifest.xml:34:13-36:29
 70                <action android:name="android.intent.action.MAIN" />
 70-->C:\Users\diogo\AndroidStudioProjects\android-basics-kotlin-dogglers-app\app\src\main\AndroidManifest.xml:44:17-69
 70-->C:\Users\diogo\AndroidStudioProjects\android-basics-kotlin-dogglers-app\app\src\main\AndroidManifest.xml:44:25-66
 71            </intent-filter>
 72        </activity>
 73        <activity
-73-->[androidx.test:core:1.4.0] C:\Users\diogo\.gradle\caches\transforms-3\8678c8f4c38268d430c9dfde228fda74\transformed\jetified-core-1.4.0\AndroidManifest.xml:27:9-34:20
+73-->[androidx.test:core:1.4.0] C:\Users\diogo\.gradle\caches\transforms-3\1703ce8abf0fe3e01d530ef0a2a5b372\transformed\jetified-core-1.4.0\AndroidManifest.xml:27:9-34:20
 74            android:name="androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity"
-74-->[androidx.test:core:1.4.0] C:\Users\diogo\.gradle\caches\transforms-3\8678c8f4c38268d430c9dfde228fda74\transformed\jetified-core-1.4.0\AndroidManifest.xml:28:13-99
+74-->[androidx.test:core:1.4.0] C:\Users\diogo\.gradle\caches\transforms-3\1703ce8abf0fe3e01d530ef0a2a5b372\transformed\jetified-core-1.4.0\AndroidManifest.xml:28:13-99
 75            android:exported="true"
-75-->[androidx.test:core:1.4.0] C:\Users\diogo\.gradle\caches\transforms-3\8678c8f4c38268d430c9dfde228fda74\transformed\jetified-core-1.4.0\AndroidManifest.xml:29:13-36
+75-->[androidx.test:core:1.4.0] C:\Users\diogo\.gradle\caches\transforms-3\1703ce8abf0fe3e01d530ef0a2a5b372\transformed\jetified-core-1.4.0\AndroidManifest.xml:29:13-36
 76            android:theme="@android:style/Theme" >
-76-->[androidx.test:core:1.4.0] C:\Users\diogo\.gradle\caches\transforms-3\8678c8f4c38268d430c9dfde228fda74\transformed\jetified-core-1.4.0\AndroidManifest.xml:30:13-49
+76-->[androidx.test:core:1.4.0] C:\Users\diogo\.gradle\caches\transforms-3\1703ce8abf0fe3e01d530ef0a2a5b372\transformed\jetified-core-1.4.0\AndroidManifest.xml:30:13-49
 77            <intent-filter>
-77-->[androidx.fragment:fragment-testing:1.4.1] C:\Users\diogo\.gradle\caches\transforms-3\742047550e47a32852bc094eb6a4a861\transformed\jetified-fragment-testing-1.4.1\AndroidManifest.xml:34:13-36:29
+77-->[androidx.fragment:fragment-testing:1.4.1] C:\Users\diogo\.gradle\caches\transforms-3\6fc65dc9e62bf4c3acc576810021718c\transformed\jetified-fragment-testing-1.4.1\AndroidManifest.xml:34:13-36:29
 78                <action android:name="android.intent.action.MAIN" />
 78-->C:\Users\diogo\AndroidStudioProjects\android-basics-kotlin-dogglers-app\app\src\main\AndroidManifest.xml:44:17-69
 78-->C:\Users\diogo\AndroidStudioProjects\android-basics-kotlin-dogglers-app\app\src\main\AndroidManifest.xml:44:25-66
 79            </intent-filter>
 80        </activity>
 81        <activity
-81-->[androidx.test:core:1.4.0] C:\Users\diogo\.gradle\caches\transforms-3\8678c8f4c38268d430c9dfde228fda74\transformed\jetified-core-1.4.0\AndroidManifest.xml:35:9-42:20
+81-->[androidx.test:core:1.4.0] C:\Users\diogo\.gradle\caches\transforms-3\1703ce8abf0fe3e01d530ef0a2a5b372\transformed\jetified-core-1.4.0\AndroidManifest.xml:35:9-42:20
 82            android:name="androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity"
-82-->[androidx.test:core:1.4.0] C:\Users\diogo\.gradle\caches\transforms-3\8678c8f4c38268d430c9dfde228fda74\transformed\jetified-core-1.4.0\AndroidManifest.xml:36:13-95
+82-->[androidx.test:core:1.4.0] C:\Users\diogo\.gradle\caches\transforms-3\1703ce8abf0fe3e01d530ef0a2a5b372\transformed\jetified-core-1.4.0\AndroidManifest.xml:36:13-95
 83            android:exported="true"
-83-->[androidx.test:core:1.4.0] C:\Users\diogo\.gradle\caches\transforms-3\8678c8f4c38268d430c9dfde228fda74\transformed\jetified-core-1.4.0\AndroidManifest.xml:37:13-36
+83-->[androidx.test:core:1.4.0] C:\Users\diogo\.gradle\caches\transforms-3\1703ce8abf0fe3e01d530ef0a2a5b372\transformed\jetified-core-1.4.0\AndroidManifest.xml:37:13-36
 84            android:theme="@android:style/Theme" >
-84-->[androidx.test:core:1.4.0] C:\Users\diogo\.gradle\caches\transforms-3\8678c8f4c38268d430c9dfde228fda74\transformed\jetified-core-1.4.0\AndroidManifest.xml:38:13-49
+84-->[androidx.test:core:1.4.0] C:\Users\diogo\.gradle\caches\transforms-3\1703ce8abf0fe3e01d530ef0a2a5b372\transformed\jetified-core-1.4.0\AndroidManifest.xml:38:13-49
 85            <intent-filter>
-85-->[androidx.fragment:fragment-testing:1.4.1] C:\Users\diogo\.gradle\caches\transforms-3\742047550e47a32852bc094eb6a4a861\transformed\jetified-fragment-testing-1.4.1\AndroidManifest.xml:34:13-36:29
+85-->[androidx.fragment:fragment-testing:1.4.1] C:\Users\diogo\.gradle\caches\transforms-3\6fc65dc9e62bf4c3acc576810021718c\transformed\jetified-fragment-testing-1.4.1\AndroidManifest.xml:34:13-36:29
 86                <action android:name="android.intent.action.MAIN" />
 86-->C:\Users\diogo\AndroidStudioProjects\android-basics-kotlin-dogglers-app\app\src\main\AndroidManifest.xml:44:17-69
 86-->C:\Users\diogo\AndroidStudioProjects\android-basics-kotlin-dogglers-app\app\src\main\AndroidManifest.xml:44:25-66
 87            </intent-filter>
 88        </activity>
 89        <activity
-89-->[androidx.test:core:1.4.0] C:\Users\diogo\.gradle\caches\transforms-3\8678c8f4c38268d430c9dfde228fda74\transformed\jetified-core-1.4.0\AndroidManifest.xml:43:9-50:20
+89-->[androidx.test:core:1.4.0] C:\Users\diogo\.gradle\caches\transforms-3\1703ce8abf0fe3e01d530ef0a2a5b372\transformed\jetified-core-1.4.0\AndroidManifest.xml:43:9-50:20
 90            android:name="androidx.test.core.app.InstrumentationActivityInvoker$EmptyFloatingActivity"
-90-->[androidx.test:core:1.4.0] C:\Users\diogo\.gradle\caches\transforms-3\8678c8f4c38268d430c9dfde228fda74\transformed\jetified-core-1.4.0\AndroidManifest.xml:44:13-103
+90-->[androidx.test:core:1.4.0] C:\Users\diogo\.gradle\caches\transforms-3\1703ce8abf0fe3e01d530ef0a2a5b372\transformed\jetified-core-1.4.0\AndroidManifest.xml:44:13-103
 91            android:exported="true"
-91-->[androidx.test:core:1.4.0] C:\Users\diogo\.gradle\caches\transforms-3\8678c8f4c38268d430c9dfde228fda74\transformed\jetified-core-1.4.0\AndroidManifest.xml:45:13-36
+91-->[androidx.test:core:1.4.0] C:\Users\diogo\.gradle\caches\transforms-3\1703ce8abf0fe3e01d530ef0a2a5b372\transformed\jetified-core-1.4.0\AndroidManifest.xml:45:13-36
 92            android:theme="@android:style/Theme.Dialog" >
-92-->[androidx.test:core:1.4.0] C:\Users\diogo\.gradle\caches\transforms-3\8678c8f4c38268d430c9dfde228fda74\transformed\jetified-core-1.4.0\AndroidManifest.xml:46:13-56
+92-->[androidx.test:core:1.4.0] C:\Users\diogo\.gradle\caches\transforms-3\1703ce8abf0fe3e01d530ef0a2a5b372\transformed\jetified-core-1.4.0\AndroidManifest.xml:46:13-56
 93            <intent-filter>
-93-->[androidx.fragment:fragment-testing:1.4.1] C:\Users\diogo\.gradle\caches\transforms-3\742047550e47a32852bc094eb6a4a861\transformed\jetified-fragment-testing-1.4.1\AndroidManifest.xml:34:13-36:29
+93-->[androidx.fragment:fragment-testing:1.4.1] C:\Users\diogo\.gradle\caches\transforms-3\6fc65dc9e62bf4c3acc576810021718c\transformed\jetified-fragment-testing-1.4.1\AndroidManifest.xml:34:13-36:29
 94                <action android:name="android.intent.action.MAIN" />
 94-->C:\Users\diogo\AndroidStudioProjects\android-basics-kotlin-dogglers-app\app\src\main\AndroidManifest.xml:44:17-69
 94-->C:\Users\diogo\AndroidStudioProjects\android-basics-kotlin-dogglers-app\app\src\main\AndroidManifest.xml:44:25-66
@@ -159,25 +159,25 @@
 96        </activity>
 97
 98        <provider
-98-->[androidx.emoji2:emoji2:1.0.0] C:\Users\diogo\.gradle\caches\transforms-3\a845f139dd1624204fc6cd9b5c8212f7\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
+98-->[androidx.emoji2:emoji2:1.0.0] C:\Users\diogo\.gradle\caches\transforms-3\cff841719f338418ac65d02b75583a6f\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
 99            android:name="androidx.startup.InitializationProvider"
-99-->[androidx.emoji2:emoji2:1.0.0] C:\Users\diogo\.gradle\caches\transforms-3\a845f139dd1624204fc6cd9b5c8212f7\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:27:13-67
+99-->[androidx.emoji2:emoji2:1.0.0] C:\Users\diogo\.gradle\caches\transforms-3\cff841719f338418ac65d02b75583a6f\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:27:13-67
 100            android:authorities="com.example.dogglers.androidx-startup"
-100-->[androidx.emoji2:emoji2:1.0.0] C:\Users\diogo\.gradle\caches\transforms-3\a845f139dd1624204fc6cd9b5c8212f7\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:28:13-68
+100-->[androidx.emoji2:emoji2:1.0.0] C:\Users\diogo\.gradle\caches\transforms-3\cff841719f338418ac65d02b75583a6f\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:28:13-68
 101            android:exported="false" >
-101-->[androidx.emoji2:emoji2:1.0.0] C:\Users\diogo\.gradle\caches\transforms-3\a845f139dd1624204fc6cd9b5c8212f7\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:29:13-37
+101-->[androidx.emoji2:emoji2:1.0.0] C:\Users\diogo\.gradle\caches\transforms-3\cff841719f338418ac65d02b75583a6f\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:29:13-37
 102            <meta-data
-102-->[androidx.emoji2:emoji2:1.0.0] C:\Users\diogo\.gradle\caches\transforms-3\a845f139dd1624204fc6cd9b5c8212f7\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
+102-->[androidx.emoji2:emoji2:1.0.0] C:\Users\diogo\.gradle\caches\transforms-3\cff841719f338418ac65d02b75583a6f\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
 103                android:name="androidx.emoji2.text.EmojiCompatInitializer"
-103-->[androidx.emoji2:emoji2:1.0.0] C:\Users\diogo\.gradle\caches\transforms-3\a845f139dd1624204fc6cd9b5c8212f7\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:32:17-75
+103-->[androidx.emoji2:emoji2:1.0.0] C:\Users\diogo\.gradle\caches\transforms-3\cff841719f338418ac65d02b75583a6f\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:32:17-75
 104                android:value="androidx.startup" />
-104-->[androidx.emoji2:emoji2:1.0.0] C:\Users\diogo\.gradle\caches\transforms-3\a845f139dd1624204fc6cd9b5c8212f7\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:33:17-49
+104-->[androidx.emoji2:emoji2:1.0.0] C:\Users\diogo\.gradle\caches\transforms-3\cff841719f338418ac65d02b75583a6f\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:33:17-49
 105            <meta-data
-105-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\diogo\.gradle\caches\transforms-3\dcc2e2c57b0fab63576095fc8ae3d99e\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
+105-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\diogo\.gradle\caches\transforms-3\798455ec551344ebce1defe529d7e831\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
 106                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
-106-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\diogo\.gradle\caches\transforms-3\dcc2e2c57b0fab63576095fc8ae3d99e\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
+106-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\diogo\.gradle\caches\transforms-3\798455ec551344ebce1defe529d7e831\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
 107                android:value="androidx.startup" />
-107-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\diogo\.gradle\caches\transforms-3\dcc2e2c57b0fab63576095fc8ae3d99e\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
+107-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\diogo\.gradle\caches\transforms-3\798455ec551344ebce1defe529d7e831\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
 108        </provider>
 109    </application>
 110
